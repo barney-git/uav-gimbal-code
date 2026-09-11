@@ -11,5 +11,5 @@ Decodes and unwraps IMU readings, applies an integral-only control system and ou
 
 ## Files
 - "integral-only-controller.ino" - Final, tuned gimbal firmware using an integral-only controller
-- "Deprecated/pid-controller.ino" - Early, PID controller approach, discarded due to steady-state-error
+- "Deprecated/pid-controller.ino" - Early PID controller approach, discarded due to steady-state-error
 - "Tools/default-servo-pos.ino" - Utility to return both servos to their 0° position
